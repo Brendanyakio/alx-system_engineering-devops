@@ -4,3 +4,5 @@ ls -la
 ls -al
 #!/bin/bash
 ls -la
+#!/bin/bash
+ls -a -l
